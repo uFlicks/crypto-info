@@ -1,0 +1,12 @@
+.banner{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../image/Banner.jpg);
+    background-size:cover;
+    background-position: center;
+    font-size: large;
+    color: white;
+}

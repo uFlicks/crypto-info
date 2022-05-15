@@ -1,0 +1,24 @@
+.coin-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.logo{
+    margin: 10px 0;
+}
+.coin-name{
+    color: white;
+    font-size: 4em;
+    font-weight: bold;
+
+}
+.coin-des{
+    color: whitesmoke;
+    padding:0 5vw;
+}
+.coin-rank{
+    color: white;
+    padding:0 5vw;
+    padding-top: 10px;
+}
